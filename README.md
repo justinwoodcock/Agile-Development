@@ -6,7 +6,7 @@ Resources for the agile methodology
   * Mountain Goat Software: [http://www.mountaingoatsoftware.com/agile](http://www.mountaingoatsoftware.com/agile)
 
 ##Videos
-* ###Agile Samurai
+1. **Agile Samurai**
    * Planning: [https://www.youtube.com/watch?v=MSMBYm9dHso](https://www.youtube.com/watch?v=MSMBYm9dHso)
    * User Stories: [https://www.youtube.com/watch?v=LvRVnFmLpSA](https://www.youtube.com/watch?v=LvRVnFmLpSA)
    * Estimation: [http://www.youtube.com/watch?v=sCCUEtjCpCs](http://www.youtube.com/watch?v=sCCUEtjCpCs)
